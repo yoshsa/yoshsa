@@ -19,17 +19,17 @@
 
 ### 📌 Featured Repositories
 
-#### 1. 🏥 [MaternalCare-Vault](https://github.com) *(Healthcare + Web3 / ZK Proofs)*
+#### 1. 🏥 [MaternalCare-Vault](https://github.com/yoshsa/maternalcare-vault) *(Healthcare + Web3 / ZK Proofs)*
 > Decentralized, patient-owned health records & access control system using Ethereum, ERC-4337 Account Abstraction, and IPFS encryption.
 - **Tech:** Solidity, Foundry, Next.js, TypeScript, Viem, Pinata/IPFS
 - **Key Features:** Role-based medical record delegation (Doctors/Midwives/Patients), encrypted off-chain storage, gasless user transactions.
 
-#### 2. ⚡ [LiquidityGuardian-DeFi](https://github.com) *(Automated DeFi & Bot Architecture)*
+#### 2. ⚡ [LiquidityGuardian-DeFi](https://github.com/yoshsa/defi-liquidity-guardian) *(Automated DeFi & Bot Architecture)*
 > Autonomous flash-loan & automated collateral protection protocol for lending pools.
 - **Tech:** Solidity, Hardhat, TypeScript, Ethers.js, Aave V3 FlashLoans
 - **Key Features:** Automated health factor monitoring, liquidation arbitrage simulator, comprehensive unit & invariant tests.
 
-#### 3. 🎨 [VeriMint-Marketplace](https://github.com) *(Gas-Optimized NFT & Escrow Marketplace)*
+#### 3. 🎨 [VeriMint-Marketplace](https://github.com/yoshsa/verimint-marketplace) *(Gas-Optimized NFT & Escrow Marketplace)*
 > Gas-optimized ERC-721A / ERC-1155 marketplace protocol with Merkle tree whitelist proof verification and signature-based orders (EIP-712).
 - **Tech:** Solidity, Foundry, Next.js 14, Tailwind CSS, OpenZeppelin
 - **Key Features:** Lazy minting, off-chain EIP-712 order signing, 0 gas whitelist verification via Merkle roots.
